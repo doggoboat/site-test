@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'EB Garamond';
+	src: url(../../assets/fonts/EB%20Garamond-1a7cde8fbdc9e5789dae0c9310c285ab.woff2) format('woff2'),
+	url(../../assets/fonts/EB%20Garamond-efdafea5a0c87f52b36ea7a14537a9ae.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
